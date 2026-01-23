@@ -14,7 +14,8 @@ I design and deploy data-driven solutions from raw data to production.
 ## 🚀 Projects & Contributions
 
 - 📊 **BigdataSupplyChain** — Supply chain data analysis & decision support  
-- 📉 **Churn Prediction** — Customer churn prediction using ML models  
+- 📉 **Churn Prediction** — Customer churn prediction using ML models
+- 📉 **Time Series Forecasting of Mobile Money Cash-In (Machine Learning)** - liquidity management, operational planning, and data-driven decision making by anticipating future transaction values
 - 🗳️ **Election** — Application for the ENI election
 - 🔍 **ResearchEngine** — Search engine & data indexing system  
 - 🧪 **Topics-TestAnalyzer** — Research & testing improvement  
