@@ -3,8 +3,8 @@
 </p>
 
 <p>
-<b>Machine Learning Engineer</b> specialized in <b>Big Data</b>, <b>Data Analysis</b> and <b>ML systems</b>.  
-I design and deploy data-driven solutions from raw data to production.
+  Junior **Data Scientist**| Python • Machine Learning
+  Continuous learner with a strong interest in practical, real-world data projects.
 </p>
 
 ---
