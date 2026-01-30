@@ -13,12 +13,12 @@
 
 ## 🚀 Projects & Contributions
 
-- 📊 **BigdataSupplyChain** — Supply chain data analysis & decision support <a link='https://github.com/Major1709/BigdataSupplyChain'>here</a>  
-- 📉 **Churn Prediction** — Customer churn prediction using ML models
-- 📉 **Time Series Forecasting of Mobile Money Cash-In (Machine Learning)** - liquidity management, operational planning, and data-driven decision making by anticipating future transaction values
-- 🗳️ **Election** — Application for the ENI election
-- 🔍 **ResearchEngine** — Search engine & data indexing system  
-- 🧪 **Sentiment Analysis with TF-IDF and Machine Learning** — Natural Language Processing (NLP) and Machine Learning techniques 
+- 📊 **[BigdataSupplyChain](https://github.com/Major1709/BigdataSupplyChain)** — Supply chain data analysis & decision support
+- 📉 **[Churn Prediction](https://github.com/Major1709/Churn)** — Customer churn prediction using ML models
+- 📉 **[Time Series Forecasting of Mobile Money Cash-In (Machine Learning)](https://github.com/Major1709/Time-Series-Forecasting-of-Mobile-Money-Cash-In-Machine-Learning-)** - liquidity management, operational planning, and data-driven decision making by anticipating future transaction values
+- 🗳️ **[Election](https://github.com/Major1709/Election)** — Application for the ENI election
+- 🔍 **[ResearchEngine](https://github.com/Major1709/ResearchEngine)** — Search engine & data indexing system  
+- 🧪 **[Sentiment Analysis with TF-IDF and Machine Learning](https://github.com/Major1709/Sentiment-Analysis-IMBD-Classification)** — Natural Language Processing (NLP) and Machine Learning techniques 
 
 ---
 
