@@ -13,12 +13,12 @@
 
 ## 🚀 Projects & Contributions
 
-- 📊 **BigdataSupplyChain** — Supply chain data analysis & decision support  
+- 📊 **BigdataSupplyChain** — Supply chain data analysis & decision support <a link='https://github.com/Major1709/BigdataSupplyChain'>here</a>  
 - 📉 **Churn Prediction** — Customer churn prediction using ML models
 - 📉 **Time Series Forecasting of Mobile Money Cash-In (Machine Learning)** - liquidity management, operational planning, and data-driven decision making by anticipating future transaction values
 - 🗳️ **Election** — Application for the ENI election
 - 🔍 **ResearchEngine** — Search engine & data indexing system  
-- 🧪 **Topics-TestAnalyzer** — Research & testing improvement  
+- 🧪 **Sentiment Analysis with TF-IDF and Machine Learning** — Natural Language Processing (NLP) and Machine Learning techniques 
 
 ---
 
