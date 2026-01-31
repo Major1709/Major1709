@@ -154,6 +154,13 @@
 
 ---
 
+### Contact
+**E-Mail :** tomahatody17@gmail.com
+
+**LinkedIn :** [/in/kevin-mahatody](https://www.linkedin.com/in/kevin-mahatody)
+
+---
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 
 
