@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  Junior <b>Data Scientist</b> | Python • Machine Learning
+  <b>Data Scientist</b> | Python • Machine Learning
   Continuous learner with a strong interest in practical, real-world data projects.
 </p>
 
