@@ -13,7 +13,7 @@
 
 ## 🚀 Projects & Contributions
 
-- 📊 **[Dynamic Pricing Analytics Platform](https://github.com/Major1709/Dynamic Pricing Analytics Platform)** — Dashbord and Price Analyse
+- 📊 **[Dynamic Pricing Analytics Platform](https://github.com/Major1709/Dynamic-Pricing-Analytics-Platform)** — Dashbord and Price Analyse
 - 📉 **[Churn Prediction](https://github.com/Major1709/Churn)** — Customer churn prediction using ML models
 - 📉 **[Time Series Forecasting of Mobile Money Cash-In (Machine Learning)](https://github.com/Major1709/Time-Series-Forecasting-of-Mobile-Money-Cash-In-Machine-Learning-)** - liquidity management, operational planning, and data-driven decision making by anticipating future transaction values
 - 🔍 **[Face-Recognition](https://github.com/Major1709/Face-Recognition)** — Face-Recognition system Computer Vision
