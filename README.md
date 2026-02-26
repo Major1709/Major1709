@@ -13,13 +13,13 @@
 
 ## 🚀 Projects & Contributions
 
-- 📊 **[BigdataSupplyChain](https://github.com/Major1709/BigdataSupplyChain)** — Supply chain data analysis & decision support
+- 📊 **[Dynamic Pricing Analytics Platform](https://github.com/Major1709/Dynamic Pricing Analytics Platform)** — Dashbord and Price Analyse
 - 📉 **[Churn Prediction](https://github.com/Major1709/Churn)** — Customer churn prediction using ML models
 - 📉 **[Time Series Forecasting of Mobile Money Cash-In (Machine Learning)](https://github.com/Major1709/Time-Series-Forecasting-of-Mobile-Money-Cash-In-Machine-Learning-)** - liquidity management, operational planning, and data-driven decision making by anticipating future transaction values
 - 🔍 **[Face-Recognition](https://github.com/Major1709/Face-Recognition)** — Face-Recognition system Computer Vision
-- 🗳️ **[Election](https://github.com/Major1709/Election)** — Application for the ENI election
 - 🔍 **[ResearchEngine](https://github.com/Major1709/ResearchEngine)** — Search engine & data indexing system  
 - 🧪 **[Sentiment Analysis with TF-IDF and Machine Learning](https://github.com/Major1709/Sentiment-Analysis-IMBD-Classification)** — Natural Language Processing (NLP) and Machine Learning techniques 
+- 📊 **[BigdataSupplyChain](https://github.com/Major1709/BigdataSupplyChain)** — Supply chain data analysis & decision support
 
 ---
 
