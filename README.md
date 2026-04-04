@@ -13,13 +13,17 @@
 
 ## 🚀 Projects & Contributions
 
-- 📊 **[Dynamic Pricing](https://github.com/Major1709/Dynamic-Pricing-Analytics-Platform)** — AI-Driven Dynamic Pricing & Revenue Optimization Platform
-- 📉 **[Customer Churn](https://github.com/Major1709/Churn)** — Customer churn prediction using ML models
-- 📉 **[Time Series / Mobile Money](https://github.com/Major1709/Time-Series-Forecasting-of-Mobile-Money-Cash-In-Machine-Learning-)** - liquidity management, operational planning, and data-driven decision making by anticipating future transaction values
-- 🔍 **[Face-Recognition](https://github.com/Major1709/Face-Recognition)** — Face-Recognition system Computer Vision
-- 🔍 **[Research / Search Engine](https://github.com/Major1709/ResearchEngine)** — Search engine & data indexing system  
-- 🧪 **[Sentiment Analysis](https://github.com/Major1709/Sentiment-Analysis-IMBD-Classification)** — Natural Language Processing (NLP) and Machine Learning techniques 
-- 📊 **[Supply Chain / Big Data](https://github.com/Major1709/BigdataSupplyChain)** — Supply chain data analysis & decision support
+## AI Projects
+
+- 🤖 **[Autonomous AI Agent System Development](https://github.com/Major1709/Autonomous-AI-Agent-System-Development)** — Autonomous multi-agent AI system with `LangGraph`, `Groq`, tool calling, a web dashboard, and Telegram control.
+- 🏥 **[Agentic AI Developer for Autonomous Healthcare](https://github.com/Major1709/Agentic-AI-Developer-for-Autonomous-Healthcare)** — Agentic healthcare AI platform for automating clinical and operational workflows such as risk adjustment, prior authorization, and care gap closure.
+- 💬 **[AI ML Technical Discussion Support](https://github.com/Major1709/AI-ML-Engineer-with-Strong-English-for-Technical-Discussion-Support)** — AI/ML technical discussion and interview preparation app with multi-turn chat, live simulation, voice mode, and structured feedback.
+- 🎫 **[AI Customer Support Ticket Triage System](https://github.com/Major1709/AI-Customer-Support-Ticket-Triage-System)** — LLM-powered support ticket classification system with priority detection, tagging, batch processing, and dashboard analytics.
+- 📋 **[AI-Driven Medical Standards Gap Analysis](https://github.com/Major1709/AI-Driven-Medical-Standards-Gap-Analysis)** — AI compliance analysis workspace for mapping regulations to internal documents, detecting gaps, and generating remediation reports.
+- 🔎 **[ResearchEngine](https://github.com/Major1709/ResearchEngine)** — RAG-powered semantic search and document indexing platform for research content with AI query reformulation and retrieval.
+- 🧪 **[AI Test Agent](https://github.com/Major1709/AI-Code-Change-Detector)** — Diff-aware AI agent that analyzes code changes, updates test scripts, and triggers targeted CI workflows.
+- 👁️ **[Python Surface Defect Detector](https://github.com/Major1709/Python-Surface-Defect-Detector)** — Computer vision project for detecting `Broken`, `Cracked`, and `Discolored` surface defects from product images.
+
 
 ---
 
